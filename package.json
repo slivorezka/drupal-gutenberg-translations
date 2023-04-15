@@ -31,10 +31,10 @@
     "drupal-gutenberg-translations": "./index.js"
   },
   "dependencies": {
-    "chalk": "^2.4.2",
-    "fs-extra": "^8.1.0",
-    "glob": "^7.1.6",
+    "chalk": "^5.2.0",
+    "fs-extra": "^11.1.1",
+    "glob": "^10.1.0",
     "minimist": "^1.2.5",
-    "typescript": "^3.8.3"
+    "typescript": "^5.0.4"
   }
 }
