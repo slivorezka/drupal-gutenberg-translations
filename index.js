@@ -4,7 +4,7 @@ const fs = require('fs-extra');
 const path = require('path');
 const chalk = require('chalk');
 const argv = require('minimist')(process.argv.slice(2));
-const { glob } = require('glob');
+const glob = require('glob');
 const ts = require('typescript');
 
 const TRANSLATIONS_FILENAME = 'drupal-gutenberg-translations.js';
